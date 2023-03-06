@@ -6,9 +6,9 @@
 		<groupId>com.doranco</groupId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<groupId>com.doranco</groupId>
+	<!--	<groupId>com.doranco</groupId>-->
 	<artifactId>ear</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<!--	<version>1.0-SNAPSHOT</version>-->
 	<packaging>ear</packaging>
 	<name>ear</name>
 	<properties>
